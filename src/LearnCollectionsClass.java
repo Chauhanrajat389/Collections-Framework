@@ -17,7 +17,6 @@ public class LearnCollectionsClass {
         Student s1 = new Student("Anuj", 2);
         Student s2 = new Student("Rohit", 3);
 
-//        System.out.println((s1.compareTo(s2)));
 
         System.out.println(list);
 
@@ -26,23 +25,6 @@ public class LearnCollectionsClass {
         System.out.println(list);
 
         
-//        List<Integer> list = new ArrayList<>();
-//        list.add(34);
-//        list.add(12);
-//        list.add(9);
-//        list.add(9);
-//        list.add(9);
-//        list.add(76);
-//        list.add(29);
-//        list.add(75);
-//
-////        System.out.println("min element " + Collections.min(list));
-////        System.out.println("max element " + Collections.max(list));
-////        System.out.println(Collections.frequency(list, 9));
-//
-//        Collections.sort(list, Comparator.reverseOrder());
-//
-//        System.out.println(list);
     }
 
 }
